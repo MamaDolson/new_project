@@ -4,3 +4,5 @@ h1 {
 .pancakes{
 	-webkit-transform: rotate(90deg);
 }
+.pancakes{height: 100px;
+width: 200px;}
