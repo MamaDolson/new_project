@@ -4,5 +4,7 @@ h1 {
 .pancakes{
 	-webkit-transform: rotate(90deg);
 }
-.pancakes{height: 100px;
+.pancakes{height: 200px;
+width: 200px;}
+.cookbook {height: 200px;
 width: 200px;}
