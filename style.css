@@ -1,10 +1,32 @@
+
 h1 {
 	color: red;
+	font-size: 40px;
 }
+div {
+	color: black;
+	font-weight: bold;
+	background-color: pink;
+	font-size: 35px;
+}
+
 .pancakes{
 	-webkit-transform: rotate(90deg);
 }
 .pancakes{height: 200px;
+width: 300px;}
+.cookbook{height: 300px;
 width: 200px;}
-.cookbook {height: 200px;
-width: 200px;}
+.poppyseedroll{
+	 -webkit-transform: rotate(90deg);
+}
+.poppyseedroll{height: 200px;
+width: 300px;
+}
+.whitebread{height: 300px
+width: 200px;
+}
+.boxed{ 
+border: 3px red;
+}
+h3 {color: red;}
